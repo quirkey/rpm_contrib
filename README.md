@@ -61,7 +61,7 @@ The gem will instrument both Curl::Easy and Curl::Multi - they should show up si
 
 You can disable it with `disable_curb` in your newrelic.yml file.
 
-## Elastic Search
+### Elastic Search
 
 The gem will instrument ElasticSearch::Client. The metrics should show up in the UI
 
